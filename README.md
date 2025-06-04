@@ -2,4 +2,4 @@
 
 A simple Spotify clone built with HTML, CSS.
 
-![Demo](ScreenRecording.gif)
+![Demo](Spotify-Clone/ScreenRecording.gif)
